@@ -9,7 +9,7 @@ I’m a passionate developer with a knack for creating impactful solutions using
 ### 🛠️ Tech Stack  
 - **Languages**: Python, JavaScript, C, Java  
 - **Frontend**: React, Next.js  
-- **Backend**: Express.js, Node.js  
+- **Backend**: Express.js, Node.js, FastAPI
 - **Tools**: Docker, Git, VS Code  
 
 ### 📫 Let’s Connect!  
